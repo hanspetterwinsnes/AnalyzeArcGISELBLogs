@@ -2,3 +2,5 @@
 *.xlsx
 *.venv
 elb_logs/
+karttjenester.parquet
+__pycache__/
